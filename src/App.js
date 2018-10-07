@@ -35,7 +35,7 @@ class App extends Component {
             console.log ("Best Score: " + bestScore);
 
             correctGuesses = 0;
-            clickMessage = "Bummer! You already clicked on this one."
+            clickMessage = "Woops! You already clicked on this one."
 
             for (let i = 0 ; i < matches.length ; i++){
                 matches[i].clicked = false;
@@ -77,7 +77,7 @@ class App extends Component {
             correctGuesses = 0;
 
             // Egg on the user to play again
-            clickMessage = "WOW!!! You got ALL of them!!! Now, let's see if you can do it again!";
+            clickMessage = "WOW!!! You got ALL of them!!! But, can you do it again?";
             bestScore = 12;
             this.setState({ bestScore });
             
@@ -99,7 +99,7 @@ class App extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>Clickity Clack Movie Game</Title>
+                <Title>Super Smash Clicky Game</Title>
         
                 <h3 className="scoreSummary">
                     {this.state.clickMessage}
