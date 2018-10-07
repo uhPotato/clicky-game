@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/images/Mario.webp",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/Fox.webp",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/IceClimbers.webp",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/Kirby.webp",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/Link.webp",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/MrGameNWatch.webp",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/Ness.webp",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/Olimar.webp",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/Palutena.webp",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/Pikachu.webp",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/Samus.webp",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/WiiFitTrainer.webp",
+    "clicked": false
+}
+]
